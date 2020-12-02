@@ -1,5 +1,5 @@
 # dragon curve
-<img src = "./screenshots/banner.png" width="50%">
+<img src = "./screenshots/banner.png" width="75%">
 
 It's a sizable dragon curve made with python turtle.
 
