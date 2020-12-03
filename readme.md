@@ -19,7 +19,7 @@ python dragoncurve.py
 ```
 
 ## about sequence
-Each number means deirection. →: 0, ↑: 1, ←: 2, ↓: 3
+Each number means direction. →: 0, ↑: 1, ←: 2, ↓: 3
 
 a_1: 0
 
