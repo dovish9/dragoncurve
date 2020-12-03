@@ -8,14 +8,14 @@ Install python3. I used python 3.7.9, and any lower or higher version will be fi
 
 ## download
 ```
-cd my_path
-git clone https://github.com/gkm42917/dragoncurve.git
+$ cd my_path
+$ git clone https://github.com/gkm42917/dragoncurve.git
 ```
 
 ## run
 ```
-cd my_path/dragoncurve
-python dragoncurve.py
+$ cd my_path/dragoncurve
+$ python dragoncurve.py
 ```
 
 ## about sequence
