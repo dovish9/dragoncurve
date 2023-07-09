@@ -9,7 +9,7 @@ Install python3. I used python 3.7.9, and any lower or higher version will be fi
 ## download
 ```
 $ cd my_path
-$ git clone https://github.com/gkm42917/dragoncurve.git
+$ git clone https://github.com/dovish9/dragoncurve.git
 ```
 
 ## run
